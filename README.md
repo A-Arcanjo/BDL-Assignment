@@ -1,10 +1,10 @@
 # BDL-Assignment
 Yohannes and Andreia Repo
 
-Anderia, could you answer the following questions in the space provided next to the question:
+Andreia, could you answer the following questions in the space provided next to the question:
 1. What is your favorite holiday destination?
-   1. Visiting a beach restaurant 
-   2. Anywhere in Nature.
+   Yohannes (1). Visiting a beach restaurant 
+   Andreia (2).  Anywhere in Nature.
 2. What should your dreamjob be like?
    1. to be an outstanding web-developer and solving the problem of companies at any management levels. 
    2. A job that challenges me to learn new things.
