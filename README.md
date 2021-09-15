@@ -1,11 +1,11 @@
 # BDL-Assignment
 Yohannes and Andreia Repo
 
-Andreia, could you answer the following questions in the space provided next to the question:
+Andreia (ii), could you answer the following questions in the space provided next to the question:
 1. What is your favorite holiday destination?
-   Yohannes (1). Visiting a beach restaurant 
-   Andreia (2).  Anywhere in Nature.
-2. What should your dreamjob be like?
+   1. Visiting a beach restaurant 
+   2. Anywhere in Nature.
+2. What should your dream job be like?
    1. to be an outstanding web-developer and solving the problem of companies at any management levels. 
    2. A job that challenges me to learn new things.
 3. What really makes you angry?
@@ -29,7 +29,7 @@ Andreia, could you answer the following questions in the space provided next to 
 9.  What is your favorite color?
     1.  blue
     2.  Blue.
-10. What is your fav. videogame?
+10. What is your fav. video game?
     1.  Candy Crush Saga
     2.  I am not a video game fan, but sometimes I play Mario Cart with my son.
 11. Does it bother you to be confronted with unexpected situations?
@@ -52,7 +52,7 @@ Andreia, could you answer the following questions in the space provided next to 
     2. Anything that has no utility. 
 17. If you were a super-hero, what powers would you have?
     1. solving the unsolved problems 
-    2. Tele-transport, with cargo.
+    2. Teleportation, with cargo.
 18. What's the most unusual thing you've ever eaten?
     1. I have never eaten yet unusual food
     2. Fried pork brains. 
